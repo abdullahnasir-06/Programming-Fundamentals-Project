@@ -1,0 +1,22 @@
+Project Proposal: Student Result Management
+System
+1. Project Title: Student Result Management System (SRMS)
+2. Objective: The main objective of this project is to design and develop a system that can efficiently
+manage, store, and retrieve student results. It will automate manual result processing, reduce
+errors, and save time for both teachers and students.
+3. Problem Statement: In many educational institutions, managing results manually is
+time-consuming and error-prone. Teachers face challenges in calculating, recording, and sharing
+results, while students sometimes receive delayed or incorrect results.
+4. Proposed Solution: The proposed system will provide a centralized platform where: - Teachers
+can enter marks and generate results automatically. - Students can view their results online. -
+Administrators can manage student records, courses, and grades. - The system will ensure
+accuracy, quick access, and data security.
+5. Key Features: - Student registration and record management - Marks entry by teachers -
+Automatic grade calculation and GPA generation - Result publishing and student access portal -
+Search and filter option for quick result retrieval - Data backup and security
+6. Tools & Technologies: - Programming Language: C - IDE: Dev C++, Visual Studio Code -
+Interface: Console-based
+7. Expected Outcome: - Faster and error-free result generation - Easy access for both teachers and
+students - Improved efficiency in result management
+8. Conclusion:The Student Result Management System will replace the traditional manual process
+with a digital, reliable, and user-friendly solution, ensuring accuracy and saving valuable time.
